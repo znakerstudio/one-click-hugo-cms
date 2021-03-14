@@ -5,13 +5,7 @@ const BASE_CACHE_FILES = [
     '/js/custom.js',
     '/search/index.json',
     '/manifest.json',
-    '/favicon.png',
-    '/images/logo.png',
-    '/techformist-logo-no-text.png',
-    '/assets/css/main.6a060eb7.css',
-    '/assets/js/main.67d669ac.js',
-    '/assets/js/sidebar.9ea42a6e.js',
-    '/assets/js/fuse_search.1ada4bca.js',
+    '/img/logo.svg',
 ];
 
 const OFFLINE_CACHE_FILES = [
