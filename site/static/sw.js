@@ -1,9 +1,7 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/css/custom.css',
-    '/js/custom.js',
-    '/search/index.json',
+    '/src/css/main.css',
     '/manifest.json',
     '/img/logo.svg',
 ];
