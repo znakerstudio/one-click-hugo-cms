@@ -1,5 +1,13 @@
 // JS Goes here - ES6 supported
-if('serviceWorker' in navigator) {
+
+import "./css/main.css";
+
+// Say hello
+console.log("🦊 Hello! Edit me in src/index.js");
+
+
+<script>
+    if('serviceWorker' in navigator) {
         window.addEventListiner('load', () => {
             navigator.serviceWorker.register('sw.js')
                 .then((registration) => {
@@ -12,7 +20,4 @@ if('serviceWorker' in navigator) {
     } else {
         console.log(`Service worker is not supported in this browser.`)
     }
-import "./css/main.css";
-
-// Say hello
-console.log("🦊 Hello! Edit me in src/index.js");
+</script>
