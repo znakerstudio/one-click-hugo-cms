@@ -1,5 +1,5 @@
 {
-	"name": "APKA2021",
+	"name": "",
 	"start_url": "/",
 	"icons": [
 		{
@@ -14,6 +14,6 @@
 		}
 	],
 	"theme_color": "#ffffff",
-	"background_color": "orange",
+	"background_color": "#ffffff",
 	"display": "standalone"
 }
