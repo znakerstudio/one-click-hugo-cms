@@ -5,7 +5,9 @@ contact_entries:
   - heading: Lokalizacja
     text: Polska
   - heading: "Godziny  otwarcia "
-    text: "Poniedziałek – Sobota: 9 - 17.  "
+    text: |-
+      Poniedziałek – Sobota: 9 - 19 
+      2021
 ---
 Skontaktuj się, zadzwoń lub wyślij wiadmość.
 
