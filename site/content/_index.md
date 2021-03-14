@@ -1,6 +1,6 @@
 ---
 title: Znaker Studio
-subtitle: Szybkie i lekkie rozwiązania do publikowania treści.
+subtitle: Szybkie i lekkie rozwiązania do publikowania treści. Hugo.
 image: img/zoompantone.jpg
 blurb:
   heading: Strony Internetowe Warszawa WordPress
