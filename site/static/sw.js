@@ -1,7 +1,6 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/src/css/main.css',
     '/manifest.json',
     '/img/logo.svg',
 ];
