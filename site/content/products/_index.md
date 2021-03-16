@@ -1,6 +1,6 @@
 ---
 title: Strony / Produkty / Portfolio
-image: /img/products-jumbotron.jpg
+image: img/tlo.jpg
 heading: Co mogę dla ciebie zrobić
 description: Mogę zaproponować różnego rodzaju rozwiązania internetowe. Buduję
   od początku do końca proste strony wizytowe, strony oparte o popularne
