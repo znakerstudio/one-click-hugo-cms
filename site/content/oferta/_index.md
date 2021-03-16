@@ -1,6 +1,6 @@
 ---
 title: Strony / Produkty / Portfolio
-image: img/tlo.jpg
+image: img/7.jpg
 heading: Budowanie stron internetowych www. Projektowanie i tworzenie aplikacji
   mobilnych webowych. Progresywnie.
 description: Budowanie stron internetowych www. Projektowanie i tworzenie
