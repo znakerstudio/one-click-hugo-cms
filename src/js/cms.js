@@ -17,5 +17,5 @@ CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
-CMS.registerPreviewTemplate("cennik", ContactPreview);
+CMS.registerPreviewTemplate("cennik", CennikPreview);
 CMS.init();
