@@ -1,9 +1,9 @@
 ---
 title: Kontakt
-logo: img/tworzenie-stron-wordpress-strony-internetowe-warszawa-1024x487.jpg
+logo: img/logo.svg
 contact_entries:
   - heading: Lokalizacja
-    text: Polska
+    text: "Warszawa / Polska "
   - heading: "Godziny  otwarcia "
     text: |-
       Poniedziałek – Sobota: 9 - 19 
@@ -11,8 +11,6 @@ contact_entries:
 ---
 Skontaktuj się, zadzwoń lub wyślij wiadmość.
 
-Strona do kontaktu: [znaker](https://znakerstudio.github.io/)
+<a href="tel:48533557723">zadzwoń / telefon / +48 ...</a>
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-Możesz również
+[napisz email](mailto:znakerstudio@gmail.com)
