@@ -27,7 +27,21 @@ main:
     programistycznego wykształcenia możemy samodzielnie zbudować bezpieczną,
     atrakcyjną wizualnie i szybką stronę www.
 
-  heading: Przykłady zastosowania WP na świecie / Walt Disney i Vogue
+    image1:
+      alt: A close-up of a paper filter filled with ground coffee
+      image: /img/products-grid3.jpg
+      alt: Strony internetowe WordPress / Warszawa / Web Content Manager
+      image: img/wordpress-logotype-stronawp.png
+    image2:
+      alt: A green cup of a coffee on a wooden table
+      image: /img/products-grid2.jpg
+      alt: Przykłady stron WordPress
+      image: img/wp.jpg
+    image3:
+      alt: Coffee beans
+      image: /img/products-grid1.jpg
+      alt: Przykłady
+      image: img/przyklady.png
 testimonials:
   - author: https://thewaltdisneycompany.com/
     quote: Misją The Walt Disney Company jest bycie jednym z czołowych światowych
