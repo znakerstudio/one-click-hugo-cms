@@ -26,6 +26,8 @@ main:
     jak i programisty panel administracyjny, dzięki któremu bez
     programistycznego wykształcenia możemy samodzielnie zbudować bezpieczną,
     atrakcyjną wizualnie i szybką stronę www.
+
+  heading: Przykłady zastosowania WP na świecie / Walt Disney i Vogue
 testimonials:
   - author: https://thewaltdisneycompany.com/
     quote: Misją The Walt Disney Company jest bycie jednym z czołowych światowych
@@ -33,7 +35,7 @@ testimonials:
   - author: https://www.vogue.com/
     quote: Najnowsze wiadomości o modzie, relacje dotyczące urody, styl gwiazd,
       aktualizacje z tygodnia mody, recenzje kulturalne i filmy na Vogue com
-full_image: img/cennikstronwwww.png
+
 pricing:
   heading: Usługi w abonamencie / Cennik
   description: "Usługi jednorazowe i w abonamencie "
