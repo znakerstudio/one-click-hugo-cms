@@ -23,5 +23,5 @@ products:
     text: "W ramach usługi dostosujemy twój szablon, zadbamy o szybkość i SEO. "
 values:
   heading: Co mogę dla Ciebie zrobić ?
-  text: Wykonać, administrować, wykonywać strony www.
+  text: Wykonać, administrować, wykonywać strony www, aplikacje progresywne.
 ---
