@@ -7,7 +7,7 @@ import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../c
 import HomePreview from "./cms-preview-templates/home";
 import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/oferta";
-import ValuesPreview from "./cms-preview-templates/values";
+import ValuesPreview from "./cms-preview-templates/przyklady";
 import ContactPreview from "./cms-preview-templates/contact";
 
 CMS.registerPreviewStyle(styles, { raw: true });
