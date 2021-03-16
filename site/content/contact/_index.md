@@ -11,6 +11,6 @@ contact_entries:
 ---
 Skontaktuj się, zadzwoń lub wyślij wiadmość.
 
-<a href="tel:48533557723">zadzwoń / telefon / +48 ...</a>
+<a href="tel:48533557723">zadzwoń / telefon / +48 ..</a>
 
 [napisz email](mailto:znakerstudio@gmail.com)
