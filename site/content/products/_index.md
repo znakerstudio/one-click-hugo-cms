@@ -26,15 +26,6 @@ main:
     jak i programisty panel administracyjny, dzięki któremu bez
     programistycznego wykształcenia możemy samodzielnie zbudować bezpieczną,
     atrakcyjną wizualnie i szybką stronę www.
-  image1:
-    alt: Strony internetowe WordPress / Warszawa / Web Content Manager
-    image: img/wordpress-logotype-stronawp.png
-  image2:
-    alt: Przykłady stron WordPress
-    image: img/wp.jpg
-  image3:
-    alt: Przykłady
-    image: img/przyklady.png
 testimonials:
   - author: https://thewaltdisneycompany.com/
     quote: Misją The Walt Disney Company jest bycie jednym z czołowych światowych
