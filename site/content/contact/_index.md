@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-logo: img/wp.jpg
+logo: img/tworzenie-stron-wordpress-strony-internetowe-warszawa-1024x487.jpg
 contact_entries:
   - heading: Lokalizacja
     text: Polska
