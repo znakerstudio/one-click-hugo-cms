@@ -40,12 +40,12 @@ testimonials:
     author: wp team
 full_image: img/tlo.jpg
 pricing:
-  heading: "Cennik "
-  description: i przykładowe oferty
+  heading: Koszta utrzymania i uruchomienia aplikacji
+  description: "Przykładowe ceny usług internetowych "
   plans:
-    - plan: Plan w abonamencie
-      price: "100"
-      description: Administracja
+    - plan: Free
+      price: "0"
+      description: Klienci
       items:
         - redakcja
         - edycja
@@ -53,4 +53,27 @@ pricing:
         - typografia
         - publikacja
         - aktualizacja
+        - sub-domena
+    - plan: Standard
+      price: "350"
+      items:
+        - redakcja
+        - edycja
+        - korekta
+        - typografia
+        - publikacja
+        - aktualizacja
+        - domena
+      description: Wykonanie
+    - plan: Pro
+      price: "1350"
+      description: Pełny pakiet
+      items:
+        - utworzenie
+        - administracja
+        - aplikacja
+        - domena
+        - modernizacja
+        - seo
+        - analytics
 ---
