@@ -42,4 +42,15 @@ full_image: img/tlo.jpg
 pricing:
   heading: "Cennik "
   description: i przykładowe oferty
+  plans:
+    - plan: Plan w abonamencie
+      price: "100"
+      description: Administracja
+      items:
+        - redakcja
+        - edycja
+        - korekta
+        - typografia
+        - publikacja
+        - aktualizacja
 ---
