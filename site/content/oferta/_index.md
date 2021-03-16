@@ -7,25 +7,28 @@ description: Budowanie stron internetowych www. Projektowanie i tworzenie
   aplikacji mobilnych webowych. Progresywnie.
 intro:
   description: Mogę zaproponować różnego rodzaju rozwiązania internetowe. Buduję
-    od początku do końca proste strony wizytowe, strony oparte o popularne
-    frameworki, sklepy, profile społecznościowe.
+    strony i aplikacje od początku do końca. Są to przeważnie proste strony
+    wizytowe, witryny i sklepy oparte o popularne frameworki.
   heading: Co mogę dla ciebie zrobić
   blurbs:
     - image: img/wordpress-logotype-stronawp.png
-      text: Tworzę strony w oparciu o WordPress. WordPress jest otwartym
-        oprogramowaniem, z którym stworzysz piękną witrynę, blog czy aplikację.
+      text: Darmowy, przyjemny w utrzymaniu i niezwykle wydajny jest WordPress. Jest
+        to wolne oprogramowanie (open source), dzięki któremu stworzysz piękną
+        witrynę, blog lub aplikację.
     - image: img/woocommerce_logo.svg_sklepyinternetowe.png
-      text: WooCommerce to najpopularniejsze na świecie rozwiązanie eCommerce typu
-        open source. Dzięki niemu stworzysz swój własny sklep intenetowy.
+      text: WooCommerce to popularne na świecie rozwiązanie eCommerce też typu open
+        source. W połączeniu z WordPressem stworzysz swój własny sklep
+        intenetowy.
 main:
   description: >
-    Od roku 2010 roku przygotowuję strony w oparciu o ten kod. Rozpisywać się
-    nad zaletami tego frameworka można w nieskończoność. Dla mnie najważniejszą
-    zaletą jest szybkość i łatwy w osbsłudze zarówno dla klienta jak i
-    programisty panel administracyjny, dzięki któremu bez programistycznego
+    Od roku 2010 roku przygotowuję strony w oparciu o powyższe kody. Rozpisywać
+    się nad zaletami tych frameworków  można w nieskończoność. Dla mnie
+    najważniejszą ich zaletą jest szybkość i łatwość w osbsłudze zarówno dla
+    klienta jak i programisty. Oba produkty posiadają intuicyjny i prosty w
+    obsłudze panel administracyjny, dzięki któremu bez programistycznego
     wykształcenia możemy samodzielnie zbudować bezpieczną, atrakcyjną wizualnie
     i szybką stronę www.
-  heading: Doświadczenie
+  heading: Doświadczenie. Kilkadziesiąt uruchomionych stron.
   image1:
     image: img/0002hfgh.jpg
     alt: przykłady
@@ -36,11 +39,14 @@ main:
     image: img/0002hjghj.jpg
     alt: strony wp
 testimonials:
-  - quote: Code is poetry
-    author: wp team
+  - quote: Oba produkty posiadają intuicyjny i prosty w obsłudze panel
+      administracyjny, dzięki któremu bez programistycznego wykształcenia możemy
+      samodzielnie zbudować bezpieczną, atrakcyjną wizualnie i szybką stronę
+      www.
+    author: APKA
 full_image: img/tlo.jpg
 pricing:
-  heading: Koszta utrzymania i uruchomienia aplikacji
+  heading: Przykładowy koszt utrzymania i uruchomienia strony
   description: "Przykładowe ceny usług internetowych "
   plans:
     - plan: Free
