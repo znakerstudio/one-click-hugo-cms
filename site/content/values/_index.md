@@ -1,38 +1,43 @@
 ---
 title: Przykłady
-image: img/stronawordpress_przyklad.jpg
+image: img/tlo.jpg
 values:
   - heading: Eko i przyjemnie
-    text: >
+    text: >-
       Projekt dla architekta krajobrazu i architekta zieleni. Strona stworzona
-      na motywie pochodzącym z themeforest. 
+      na motywie pochodzącym z Themeforest / ProteusThemes. Rok produkcji 2012.
+
+
+      architekt-ogrodu.pl
     imageUrl: img/stronawordpress_przyklad.jpg
-  - heading: Single origin
+  - heading: Produkcja filmowa
+    text: >-
+      Firma wykonująca usługi filmowe. Strona wizytowa. Produkcja filmowa i
+      telewizyjna. Motyw Salient. Rok produkcji 2015.
+
+
+      Blaszanka.pl
+    imageUrl: img/produkcja_stronywww.jpg
+  - heading: Branża samochodowa
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
-  - heading: Sustainable farming
+      Strona wizytowa dla firmy sprowadzającej samochody z zagranicy.
+      Kompleksowa rejestracja pojazdów z zagranicy. 
+
+
+      Akcyzy.com
+    imageUrl: img/0002hfgh.jpg
+  - heading: Ciepły i bezpieczny dom
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
+      Usługi instalacji gazowej na terenie województwa mazowieckiego. Branża
+      gazowa.
+
+
+      Willagaz.com
+    imageUrl: img/0002hjghj.jpg
+  - heading: Strona firmowa
+    text: |
+      Oficjalna strona mojej firmy. Oparta o popularną i bardzo szybką Astrę.
+
+      Znaker.Com
+    imageUrl: img/tworzenie-stron-wordpress-strony-internetowe-warszawa-1024x487.jpg
 ---
