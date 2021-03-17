@@ -22,7 +22,7 @@ values:
     text: >-
       
       WordPress, HTML, CMS, SEO, Google Analytics, CSS, Fotografia produktowa, portretowa, Web developer, PR manager, Praca biurowa, JavaScript, Adobe Creative Suite, AdWords, Hugo, Gatsby,  
-    imageUrl: img/0002hjghj.jpg
+    imageUrl: img/7.jpg
   - heading: Podsumowanie
     text: >-
       Samodzielny specjalista w zakresie programowania, projektowania i
@@ -31,8 +31,8 @@ values:
       Menedżer treści multimedialnych, WWW, treści społecznościowych. Programista,
 
       copywriter, operator kamery, realizator oświetlenia, grafik, filmoznawca.
-    imageUrl: img/tworzenie-stron-wordpress-strony-internetowe-warszawa-1024x487.jpg
+    imageUrl: img/7.jpg
   - heading: Portfolio
-    text: Apka
+    text: https://apka.netlify.app/mojecv/
     imageUrl: img/logo.svg
 ---
