@@ -13,26 +13,26 @@ values:
       Projektowanie szablonów. Export materiałów na potrzeby druku i do
       internetu. "
     imageUrl: img/7.jpg
-  - heading: Branża samochodowa
+  - heading: Programowanie na potrzeby stron www.
     text: >
-      Strona wizytowa dla firmy sprowadzającej samochody z zagranicy.
-      Kompleksowa rejestracja pojazdów z zagranicy. 
-
-
-      Akcyzy.com
-    imageUrl: img/0002hfgh.jpg
-  - heading: Ciepły i bezpieczny dom
-    text: >
-      Usługi instalacji gazowej na terenie województwa mazowieckiego. Branża
-      gazowa.
-
-
-      Willagaz.com
+      Cały czas w trakcie nauki. Odkrywanie nowych frameworków i środowisk
+      programowania. 
+    imageUrl: img/7.jpg
+  - heading: Doświadczenie w skrócie
+    text: >-
+      
+      WordPress, HTML, CMS, SEO, Google Analytics, CSS, Fotografia produktowa, portretowa, Web developer, PR manager, Praca biurowa, JavaScript, Adobe Creative Suite, AdWords, Hugo, Gatsby,  
     imageUrl: img/0002hjghj.jpg
-  - heading: Strona firmowa
-    text: |
-      Oficjalna strona mojej firmy. Oparta o popularną i bardzo szybką Astrę.
+  - heading: Podsumowanie
+    text: >-
+      Samodzielny specjalista w zakresie programowania, projektowania i
+      realizacji.
 
-      Znaker.Com
+      Menedżer treści multimedialnych, WWW, treści społecznościowych. Programista,
+
+      copywriter, operator kamery, realizator oświetlenia, grafik, filmoznawca.
     imageUrl: img/tworzenie-stron-wordpress-strony-internetowe-warszawa-1024x487.jpg
+  - heading: Portfolio
+    text: Apka
+    imageUrl: img/logo.svg
 ---
