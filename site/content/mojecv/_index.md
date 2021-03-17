@@ -1,23 +1,18 @@
 ---
-title: Przykłady
+title: Moje CV
 image: img/tlo.jpg
 values:
-  - heading: Eko i przyjemnie
-    text: >-
-      Projekt dla architekta krajobrazu i architekta zieleni. Strona stworzona
-      na motywie pochodzącym z Themeforest / ProteusThemes. Rok produkcji 2012.
-
-
-      architekt-ogrodu.pl
-    imageUrl: img/stronawordpress_przyklad.jpg
-  - heading: Produkcja filmowa
-    text: >-
-      Firma wykonująca usługi filmowe. Strona wizytowa. Produkcja filmowa i
-      telewizyjna. Motyw Salient. Rok produkcji 2015.
-
-
-      Blaszanka.pl
-    imageUrl: img/produkcja_stronywww.jpg
+  - heading: Edycja tekstów. Korekta, redakcja. Nagłówki.
+    text: Wykształcenie humanistyczne. Obsługa pakietu MS Office, Adobe. Znam zasady
+      pozycjonowania tekstu. Podstawowa znajomość języka znaczników html5.
+      Metatagi, opisy i słowa kluczowe. Obsługa edytorów Atom, Visual Studio
+      Code. Praca w Git.
+    imageUrl: img/7.jpg
+  - heading: Fotoedycja, grafika na www.
+    text: "Photoshop, Illustrator. Pisanie action scripts. Praca na warstwach.
+      Projektowanie szablonów. Export materiałów na potrzeby druku i do
+      internetu. "
+    imageUrl: img/7.jpg
   - heading: Branża samochodowa
     text: >
       Strona wizytowa dla firmy sprowadzającej samochody z zagranicy.
