@@ -1,7 +1,7 @@
 ---
 title: Znaker Studio
 subtitle: "Szybkie i lekkie rozwiązania do publikowania treści. np.: WP i Hugo."
-image: img/zoompantone.jpg
+image: img/mixproductstrendsoftheyear.png
 blurb:
   heading: "Strony Internetowe "
   text: >+
@@ -23,7 +23,7 @@ products:
     text: |
       Ogromne repozytorium motywów graficznych i aplikacji.
       Świetna dokumentacja.
-  - image: img/wp.jpg
+  - image: img/webcontentmanager_color.png
     text: "W ramach usługi dostosujemy twój szablon, zadbamy o szybkość i SEO. "
 values:
   heading: Co mogę dla Ciebie zrobić ?
