@@ -6,8 +6,6 @@ description: W dzisiejszych czasach najlepsze strony internetowe są dynamiczne 
   czcionka, jasny i przejrzysty układ elementów na stronie – to podstawa.
 image: img/wp.jpg
 ---
-
-
 ## Najlepsze strony
 
 * rsw
@@ -19,7 +17,7 @@ image: img/wp.jpg
 
 <!--StartFragment-->
 
-Tworzenie stron od A do Z
+**Tworzenie stron od A do Z**
 
 Dzięki oprogramowaniu WP i jego bogatemu repozytorium, które rozwijane jest na całym świecie mamy do dyspozycji urządzenie do tworzenia treści o praktycznie nieograniczonych możliwościach. Na WP można zbudować:
 
